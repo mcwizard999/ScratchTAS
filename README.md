@@ -14,3 +14,5 @@ Note the length variable is 1-tenth of a second.
 1.0: Uploaded files
 
 1.1: Fixed a glitch with Incorrect Variables. Updated README
+
+1.2: Fixed a glitch with Incorrect Variables. Updated README
